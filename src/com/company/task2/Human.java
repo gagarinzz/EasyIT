@@ -16,6 +16,7 @@ public class Human {
             System.out.println(
                     "Name:"+ name + "\n" +
             "Age: +age+" +
+                            
                             "Height:"+height +
             "Weight: "+ weight
             );
