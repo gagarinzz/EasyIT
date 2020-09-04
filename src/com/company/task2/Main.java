@@ -4,8 +4,10 @@ import com.company.task2.Human;
 
 public class Main {
     public static void main(String[] args) {
-        Human human = new Human( "Dima",13, 1.8, 66);
-        human.say();
+        Hobby hobby = new Hobby ("football", 2,
+                "The game where players kick the ball");
+        Human girl = new Girl("Nastya", 19,170,65,hobby);
+
     }
 }
 
