@@ -1,0 +1,22 @@
+package sample;
+
+/**
+ * Created by Юра on 04.09.2020.
+ */
+public class Girls extends {
+    class Human {
+        public Human(String name, int age, double height, double weigth){}
+    }
+
+        public class Girls (String name,int age, double height, double weigth ){
+            super(String name; int age;double height, double weigth);
+
+        }
+        public class Maria extends Girls {
+            public Maria(String name, int age, double height, double weigth) {
+                super(String name; int age;double height, double weigth);
+
+        }
+
+    }
+    
