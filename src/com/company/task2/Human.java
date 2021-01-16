@@ -7,6 +7,7 @@ public class Human {
     private double weight;
 
     private Human(String name,int age,double height,double weith) {
+
         this.name = name;
         this.age = age;
         this.height = height;
